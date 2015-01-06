@@ -1,5 +1,5 @@
 {
-  "name": "pre-commit",
+  "name": "pre-commit-a",
   "version": "0.0.9",
   "description": "Automatically install pre-commit hooks for your npm modules.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/observing/pre-commit.git"
+    "url": "git://github.com/lyuehh/pre-commit.git"
   },
   "keywords": [
     "git",
@@ -27,6 +27,6 @@
     "which": "^1.0.5"
   },
   "devDependencies": {
-    "pre-commit": "git://github.com/observing/pre-commit.git"
+    "pre-commit": "git://github.com/lyuehh/pre-commit.git"
   }
 }

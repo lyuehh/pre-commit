@@ -16,7 +16,7 @@ var hook = fs.readFileSync('./hook');
 //
 // The root of repository.
 //
-var root = path.resolve(__dirname, '../..');
+var root = path.resolve(__dirname, '../../..');
 
 //
 // The location .git and it's hooks

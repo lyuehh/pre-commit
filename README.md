@@ -1,3 +1,9 @@
+# intro
+This project is fork from <https://github.com/observing/pre-commit>, just change .git root from '../..' to '../../..'
+
+
+
+- - -
 # pre-commit
 
 A simple `pre-commit` hook installer for `git`. This will ensure that your
